@@ -1,0 +1,19 @@
+{
+	"mysql-5.1": [{
+		"name": "mysql",
+		"label": "mysql-5.1",
+		"plan": "free",
+		"tags": ["relational",
+		"mysql-5.1",
+		"mysql"],
+		"credentials": {
+			"name": "d150df0a90bef464d831af970686de71b",
+			"hostname": "172.30.48.31",
+			"host": "172.30.48.31",
+			"port": 3306,
+			"user": "usikTG7ReJTf7",
+			"username": "usikTG7ReJTf7",
+			"password": "p3JBVn7puvnBG"
+		}
+	}]
+}
